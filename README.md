@@ -1,2 +1,2 @@
 # free-acc-fr
-free acc giving away
+new gpo script just made
